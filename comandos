@@ -1,0 +1,21 @@
+$ git init
+
+$ git config user.name bernardoeder881
+
+$ git config user.email bernardoeder88@gmail.com
+
+$ git remote add origin https://github.com/bernardoeder881/AULA-03.git
+
+$ git branch -M main
+
+$ git statusgit add
+
+git add .
+
+$ git commit -m "inicializa o repositório"
+
+$ git push origin main
+
+
+git remote -v
+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
